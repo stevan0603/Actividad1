@@ -1,4 +1,4 @@
 # Actividad1
-Stevan Davis Nisperuza Oyola,
+Stevan David Nisperuza Oyola,
 Sebastian Carvajal Correa,
 Josue Martinez Dueñas
